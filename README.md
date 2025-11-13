@@ -64,6 +64,7 @@ Sub ClearSlicers()
         .ClearManualFilter
     End With
 End Sub
+
 ---
 | Tool                           | Purpose                              |
 | ------------------------------ | ------------------------------------ |
