@@ -47,30 +47,18 @@ The dashboard provides insights into **revenue distribution**, **profitability**
 ## 🧮 VBA Automation – Clear Slicers
 
 To improve user experience, I added a **VBA macro** that resets all slicers to their default state with a single click.  
-This saves time when exploring different filters or preparing the dashboard for presentations.
-
-### 🔧 Example Code Snippet:
-```vba
-Sub ClearSlicers()
-    With ActiveWorkbook.SlicerCaches("Slicer_Payment_Method")
-        .ClearManualFilter
-    End With
-
-    With ActiveWorkbook.SlicerCaches("Slicer_Buyer_Location")
-        .ClearManualFilter
-    End With
-
-    With ActiveWorkbook.SlicerCaches("Slicer_Age_Group")
-        .ClearManualFilter
-    End With
-End Sub
 
 ---
-
 ### Tool & Technologists
 | Tool                           | Purpose                              |
 | ------------------------------ | ------------------------------------ |
 | **Microsoft Excel**            | Cleaning and Dashboard creation and interactivity |
 | **VBA (Macros)**               | Automation of slicers and actions    |
 | **Pivot Tables & Charts**      | Data aggregation and visualization   |
+
+
+
+
+
+
 
