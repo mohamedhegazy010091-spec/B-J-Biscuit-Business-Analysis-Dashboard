@@ -49,7 +49,7 @@ The dashboard provides insights into **revenue distribution**, **profitability**
 To improve user experience, I added a **VBA macro** that resets all slicers to their default state with a single click.  
 
 ---
-### Tool & Technologists
+### 🧰 Tools & Technologists
 | Tool                           | Purpose                              |
 | ------------------------------ | ------------------------------------ |
 | **Microsoft Excel**            | Cleaning and Dashboard creation and interactivity |
