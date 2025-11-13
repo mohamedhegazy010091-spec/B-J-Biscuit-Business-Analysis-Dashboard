@@ -56,7 +56,10 @@ To improve user experience, I added a **VBA macro** that resets all slicers to t
 | **VBA (Macros)**               | Automation of slicers and actions    |
 | **Pivot Tables & Charts**      | Data aggregation and visualization   |
 
+---
 
+🌟 About Me
+Hi there! I'm Mohamed Hegazy, a junior data analyst who loves working with data to uncover patterns and insights. I’m passionate about turning raw data into clean, visual, and easy-to-understand information. I mainly work with Excel, SQL, Python, and Tableau to analyze and visualize data effectively.
 
 
 
