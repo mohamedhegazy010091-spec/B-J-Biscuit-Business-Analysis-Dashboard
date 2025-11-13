@@ -64,11 +64,13 @@ Sub ClearSlicers()
         .ClearManualFilter
     End With
 End Sub
-```vba
+
 ---
+
 ### Tool & Technologists
 | Tool                           | Purpose                              |
 | ------------------------------ | ------------------------------------ |
 | **Microsoft Excel**            | Cleaning and Dashboard creation and interactivity |
 | **VBA (Macros)**               | Automation of slicers and actions    |
 | **Pivot Tables & Charts**      | Data aggregation and visualization   |
+
