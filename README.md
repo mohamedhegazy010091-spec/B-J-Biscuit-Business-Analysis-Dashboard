@@ -64,11 +64,8 @@ Sub ClearSlicers()
         .ClearManualFilter
     End With
 End Sub
-
-
-)))
-'''
 ---
+###Tool & Technologists
 | Tool                           | Purpose                              |
 | ------------------------------ | ------------------------------------ |
 | **Microsoft Excel**            | Cleaning and Dashboard creation and interactivity |
