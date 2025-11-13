@@ -65,7 +65,7 @@ Sub ClearSlicers()
     End With
 End Sub
 ---
-###Tool & Technologists
+### Tool & Technologists
 | Tool                           | Purpose                              |
 | ------------------------------ | ------------------------------------ |
 | **Microsoft Excel**            | Cleaning and Dashboard creation and interactivity |
